@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: take
+Class-Path: MainModule-0.0.1-SNAPSHOT.jar log4j-core-2.11.1.jar log4j-
+ api-2.11.1.jar log4j-slf4j-impl-2.11.1.jar slf4j-api-1.7.25.jar
+Created-By: Apache Maven 3.5.3
+Build-Jdk: 1.8.0_181
+
